@@ -1,3 +1,3 @@
-# prince_corp
+# PrinceCorp
 
 Dad's work
